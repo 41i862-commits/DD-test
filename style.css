@@ -1,3 +1,4 @@
+/*Header Style*/
 .site-header {
     text-align: center;
     display: grid;
@@ -36,9 +37,9 @@
   margin-left: 20px;
   font-size: 16px;
 }
-
+/*Hover effect*/
 .menu a:hover {
-  color: lightgreen;
+  color: rgb(118, 233, 118);
 }
 
 .content {
@@ -52,20 +53,19 @@
   color: rgb(255, 0, 0);
   margin-bottom: 30px;
 }
-
+/*Homepage Image*/
 .hero {
   width: 100%;
   margin-bottom: 50px;
 }
-
+/*Footer Style*/ 
 .footer {
   background-color: black;
   color: white;
   padding: 30px;
   text-align: center;
 }
-
-
+/*Schedule Style*/ 
 .schedule-table {
   border-collapse: collapse;
   margin-top: 20px;
@@ -84,7 +84,7 @@
   background-color: black;
   color: white;
 }
-
+/*Grid Style*/ 
 .treatment-grid {
   display: grid;
   grid-template-columns: 6fr 3fr 3fr;
@@ -107,7 +107,7 @@
 .box p {
   text-align: center;
 }
-
+/*Reflection Style*/ 
 .respond {
 margin-bottom:50px ;
 }
